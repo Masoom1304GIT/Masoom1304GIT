@@ -1,16 +1,16 @@
-## Hi there 👋
+**Hello! I'm MASOOM ALI**
 
-<!--
-**Masoom1304GIT/Masoom1304GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 About Me
 
-Here are some ideas to get you started:
+* **Student at:**  VIT BHOPAL University
+* **Branch:** B.Tech CSE(ai&ml)
+* **Registration No.:** 25BAI11210
+* **Year:** 1st Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Learning Goals
+
+* To improve my digital communication skills
+* To learn professional email writing and online etiquette
+* To develop basic programming and technical skills
+* To become confident in using digital tools like Google Workspace, Canva, etc.
+* To build projects related to AI, ML, and digital innovation
